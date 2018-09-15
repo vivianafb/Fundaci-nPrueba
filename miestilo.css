@@ -1,0 +1,66 @@
+.footer{
+    box-sizing: border-box;
+    
+}
+
+.maps{
+    border:0;
+    margin-top: 10px;
+}
+
+.logo{
+    width: 70px;
+    margin-right: 10px;
+    height: 60px;   
+}
+
+.img1{
+    margin-left: 40px;
+}
+
+.img2{
+    margin-left: 40px;
+}
+
+.img3{
+    margin-left: 40px;
+}
+
+.img4{
+    margin-left: 40px;
+}
+
+.img5{
+    height: 140px;
+    margin-left: 40px;
+}
+
+.img6{
+    margin-left: 40px;
+}
+
+.img9{
+    margin-left: 20px
+
+}
+
+.img10{
+    width: 300px;
+}
+
+.row{  
+    box-sizing: border-box;
+    margin-top: 100px;
+    margin-bottom: 20px;  
+    float: center;
+}
+
+.fondo{
+    margin-top:90px;
+    z-index: 10px;
+    background-color:#587E9C;    
+    margin-bottom:30px;
+}
+
+
+
